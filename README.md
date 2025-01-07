@@ -4,6 +4,7 @@ Deploying food-delivery website using GitHub Actions in AWS S3 Bucket
 ![alt text](images/Image-26.png)
 
 ## Integrating GitHub and AWS
+![alt text](images/Image-28.png)
 1. **Create an IAM User** -
     * **User name**: Give a name ![alt text](images/Image-2.png)
     * **Permissions options**: select `Attached policies directly`
