@@ -1,5 +1,6 @@
 ## GitHub Actions Project
 Deploying food-delivery website using GitHub Actions in AWS S3 Bucket
+
 ![alt text](images/Image-26.png)
 
 ## Integrating GitHub and AWS
