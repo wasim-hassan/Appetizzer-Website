@@ -1,5 +1,6 @@
 ## GitHub Actions Project
 Deploying food-delivery website using GitHub Actions in AWS S3 Bucket
+
 ![alt text](images/Image-26.png)
 
 ## Integrating GitHub and AWS
@@ -38,7 +39,7 @@ Deploying food-delivery website using GitHub Actions in AWS S3 Bucket
 * Navigate to Repository `Settings` --> `Secretes and variables` --> `Actions` --> `New repository secrete` and add the `Access key` & `Secrete access key` credentials under **Repository secretes** ![alt text](images/Image-10.png) 
     * **Name**: add the name of Access key & Secrete access key in `main.yml` file
     * **Secretes**: add the Access key & Secrete access key credentials from the `AWS` ![alt text](images/Image-12.png) ![alt text](images/Image-14.png)
-* Add your S3 Bucket name, AWS Region name in the `main.yml` file and `Commit changes`
+* Add your S3 Bucket name, AWS Region name in the [main.yml](.github/workflows/main.yml) file and `Commit changes`
 * Click on `Actions` and you may view the changes ![alt text](images/Image-23.png) ![alt text](images/Image-25.png)
 
 > Now you are all set and good to go
